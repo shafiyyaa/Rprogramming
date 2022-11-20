@@ -1,0 +1,16 @@
+---
+title: "R Markdown Intro"
+author: "shafiyya"
+date: "2022-10-30"
+output: html_document
+---
+
+
+## Setting up my environment
+Notes : Setting up my environment by loading the 'tidyverse' and 'palmerpenguins' packages
+
+```{r loading packages}
+library(ggplot2)
+library("palmerpenguins")
+```
+
